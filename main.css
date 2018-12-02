@@ -1,3 +1,47 @@
+.container-1 {
+  background-color: #aaa;
+}
+
+.container-2 {
+  background-color: #bbb;
+}
+
+.container-3 {
+  background-color: #ccc;
+}
+
+.container-4 {
+  background-color: #ddd;
+}
+
+/*%border {
+    border: {
+        border: 1px solid #000;
+        radius: 10px; 
+    }
+}
+
+.container {
+    width: 1280px;
+    background-color: #fff;
+    margin: 0 auto;
+    @extend %border;
+}
+
+.wrapper {
+    float: left;
+    position: relative;
+    @extend %border;
+}
+
+.item {
+    font-size: 14px;
+    font-family: "Sans Pro", sans-serif;
+    font-weight: 700;
+    @extend %border;
+}
+
+*/
 .btn {
   text-decoration: none;
   padding: 0;
@@ -8,22 +52,6 @@
   width: 200px;
   height: 100px;
   background-color: #bada55;
-}
-
-.class-name-1 {
-  background-color: #aaa, #bbb, #ccc, #ddd1;
-}
-
-.class-name-2 {
-  background-color: #aaa, #bbb, #ccc, #ddd2;
-}
-
-.class-name-3 {
-  background-color: #aaa, #bbb, #ccc, #ddd3;
-}
-
-.class-name-4 {
-  background-color: #aaa, #bbb, #ccc, #ddd4;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
