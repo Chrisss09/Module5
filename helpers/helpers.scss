@@ -4,10 +4,6 @@
     margin: 0;
 }
 
-/*
-
-PLACEHOLDER CHALLENGE:
-
 %border {
     border: {
         border: 1px solid #000;
@@ -35,8 +31,6 @@ PLACEHOLDER CHALLENGE:
     @extend %border;
 }
 
-*/
-
 .container {
     .listRight {
         a {
@@ -46,3 +40,4 @@ PLACEHOLDER CHALLENGE:
         }
     }
 }
+

@@ -4,6 +4,8 @@ $red: #e84610;
 $blue: #0997d3;
 $green: #bada55;
 
+
+
 $colors: (#aaa, #bbb, #ccc, #ddd);
 
 @each $color in $colors {
@@ -12,8 +14,3 @@ $colors: (#aaa, #bbb, #ccc, #ddd);
         background-color: $color;
     }
 }
-
-
-
-
-
